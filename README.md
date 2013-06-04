@@ -1,5 +1,5 @@
 Smart Object Framework
-
+==========================
 
 The Smart Object Framework is a reference 
 implementation of the Smart Model API described at:
@@ -9,7 +9,7 @@ http://iot-datamodels.blogspot.com
 Licensed under the Open Source Apache 2.0 license 
 http://www.apache.org/licenses/LICENSE-2.0.txt
 
-Copyright 2012 Michael J Koster
+Copyright 2012 OSIOT.
 
 ###Library dependency
 
