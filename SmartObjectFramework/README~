@@ -16,6 +16,7 @@ Copyright 2012 Michael J Koster
 RDFlib
 
 ###Run
+
 $ cd SmartObjectFramework/ObjectService
 $ python GatewayObjectService.py
 
