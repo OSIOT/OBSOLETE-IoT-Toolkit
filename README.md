@@ -21,7 +21,10 @@ This will later be made into an external dependency. Original source:
 
 Currently this is a heavily modified version in order to support the
 authentication model used in the SmartObject resource model. It is in
-```SmartObjectFramework/ObjectService/restlite```
+
+```
+SmartObjectFramework/ObjectService/restlite
+```
 
 We may later switch this out for another Rest interface library that
 we can use as an external dependency
