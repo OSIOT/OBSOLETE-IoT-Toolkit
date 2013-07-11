@@ -1,3 +1,4 @@
+[![Stories in Ready](http://badge.waffle.io/osiot/IoT-Toolkit.png)](http://waffle.io/osiot/IoT-Toolkit)  
 Smart Object Framework
 ==========================
 
