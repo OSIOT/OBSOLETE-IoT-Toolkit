@@ -1,4 +1,6 @@
-[![Stories in Ready](http://badge.waffle.io/osiot/IoT-Toolkit.png)](http://waffle.io/osiot/IoT-Toolkit)  
+# NOTE: THIS IS NOW OBSOLETE. Please go to https://github.com/OSIOT/SmartObject for the latest version
+
+
 Smart Object Framework
 ==========================
 
