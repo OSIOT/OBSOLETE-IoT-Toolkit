@@ -1,6 +1,6 @@
 # NOTE: THIS IS NOW OBSOLETE.  
 # Please go to:  
-https://github.com/OSIOT/SmartObject  
+https://github.com/connectiot/iottoolkit
 for the latest version
 
 
